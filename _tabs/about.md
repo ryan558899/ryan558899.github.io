@@ -8,7 +8,7 @@ order: 4
 - 就讀學校：建功高中 → unknow
 - 擅長程式語言：C++
 - 興趣：F1、足球、棒球
-
+- [IG](https://www.instagram.com/w31__0630/)
 ---
 
 ## 程式設計經歷
