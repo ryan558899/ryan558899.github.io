@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/ChatGPT Image 2025年12月18日 下午07_37_19.png
+avatar: assets/IMG_6273.JPG
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -136,7 +136,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false # The option for PWA feature (installable)
+  enabled: true # The option for PWA feature (installable)
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
