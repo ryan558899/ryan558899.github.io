@@ -1,5 +1,6 @@
 ---
 title: OverTheWire - Bandit解題筆記
+slug: english-slug-only
 date: 2025-12-17 21:00:00 +0800
 categories: [筆記]
 tags: [資安, 解題]
@@ -379,4 +380,5 @@ After all this git stuff its time for another escape. Good luck!
 - 出來後下`ls /etc/bandit_pass/bandit33`取密碼
 # 心得
 OverTheWire - Bandit是我第一次解完一整系列的CTF題目，從0基礎開始研究linux指令，一開始還是會有指令記不住之類的問題，但打久後自然就記起來了，題目都是全英文的，下方都有附相關指令的用法。花了六周解完這系列題目有助於我對linux指令更進一步了解。
+
 
