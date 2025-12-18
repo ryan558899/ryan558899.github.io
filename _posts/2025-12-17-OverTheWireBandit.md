@@ -22,7 +22,7 @@ The password for the next level is stored in a file called - located in the home
 ### 解答
 - 先`ls`發現有一個檔案`-`
 - 嘗試用`cat`打開，但沒辦法
-- 下`pwd`看絕對路徑`/home/bandit1`
+- 下`pwd`看絕對路徑`/home/bandit1` 
 ![image](https://hackmd.io/_uploads/rkUCtPwS6.png)
 
 ## Level2
@@ -380,5 +380,6 @@ After all this git stuff its time for another escape. Good luck!
 - 出來後下`ls /etc/bandit_pass/bandit33`取密碼
 # 心得
 OverTheWire - Bandit是我第一次解完一整系列的CTF題目，從0基礎開始研究linux指令，一開始還是會有指令記不住之類的問題，但打久後自然就記起來了，題目都是全英文的，下方都有附相關指令的用法。花了六周解完這系列題目有助於我對linux指令更進一步了解。
+
 
 
